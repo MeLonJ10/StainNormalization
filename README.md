@@ -1,2 +1,2 @@
 # StainNormalization
-Official implementation new framework for stain normalization and domain adaptation of cytopathology images.
+Official implementation of a new framework for stain normalization and domain adaptation of cytopathology images.
